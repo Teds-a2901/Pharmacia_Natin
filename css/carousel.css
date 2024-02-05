@@ -1,0 +1,38 @@
+#carouselExampleCaptions,
+.carousel-inner,
+.carousel-item,
+.corousel-item.active,
+.button1{
+    
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat ;
+    
+}
+
+
+.carousel-item:nth-child(1){
+    background-image: url('../img/myriam-zilles-KltoLK6Mk-g-unsplash.jpg');
+    background-position: relative;
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-position: center center;  
+
+    
+}
+.carousel-item:nth-child(2){
+    background-image: url('../img/national-cancer-institute-NNpo-liY5aU-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    
+}
+
+.carousel-item:nth-child(3){
+    background-image: url('../img/Emergencyslideshow.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
